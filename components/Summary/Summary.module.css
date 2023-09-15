@@ -1,0 +1,11 @@
+div.summary {
+  font-weight: 400;
+  margin: 1rem 0 2rem 0;
+  color: #6d6d6d;
+  font-size: 1.3rem;
+  line-height: 1.8rem;
+}
+
+div.summary strong {
+  color: #222222;
+}
